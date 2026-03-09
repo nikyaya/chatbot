@@ -1,3 +1,2 @@
 # Streamlit chatbot
-A chatbot that can read multiple files and answer accordingly based on the prompt. This was primarily made to read financial datasets but can be used to read any dataset.
-Also has the ability to save chat history.
+This is an intelligent chatbot built with Streamlit that has the capacity to query financial datasets and statements. It also preserves chat history for future analysis.
